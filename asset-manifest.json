@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9c217f05.chunk.css",
-    "main.js": "/portfolio/static/js/main.89b7ffe2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.89b7ffe2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.49dec11a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.49dec11a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/js/2.c1efe899.chunk.js": "/portfolio/static/js/2.c1efe899.chunk.js",
     "static/js/2.c1efe899.chunk.js.map": "/portfolio/static/js/2.c1efe899.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.9c217f05.chunk.css.map": "/portfolio/static/css/main.9c217f05.chunk.css.map",
-    "static/js/2.c1efe899.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c1efe899.chunk.js.LICENSE.txt",
-    "static/media/Santander-Logo.97dc1cf1.png": "/portfolio/static/media/Santander-Logo.97dc1cf1.png",
-    "static/media/aluradev.27e57f67.PNG": "/portfolio/static/media/aluradev.27e57f67.PNG"
+    "static/js/2.c1efe899.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c1efe899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
     "static/js/2.c1efe899.chunk.js",
     "static/css/main.9c217f05.chunk.css",
-    "static/js/main.89b7ffe2.chunk.js"
+    "static/js/main.49dec11a.chunk.js"
   ]
 }
